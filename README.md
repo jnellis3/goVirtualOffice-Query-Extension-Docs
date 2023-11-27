@@ -1,7 +1,7 @@
 <img style="display: block;
             margin-left: auto;
             margin-right: auto;" 
-src="../assets/govirtualoffice.png" width = 300/>
+src="./govirtualoffice.png" width = 300/>
 
 <h1 style='text-align: center;'> Netsuite Query Extension </h1>
 
@@ -43,7 +43,7 @@ Find and click the button labeled "Load Unpacked" and select your extracted fold
 ---
 Clicking on the extension will bring up the following popup window:
 
-<img src="../assets/extension_blank.png" height=400 style='display: block;margin-left: auto;
+<img src="./extension_blank.png" height=400 style='display: block;margin-left: auto;
 margin-right:auto;'/>
 
 The extension acts like a simple IDE when opened within a scriptable record. Typing will bring up suggestions for table names and field names when using a dot join on a table. A suggestion can be applied by using the arrow keys to find the suggestion, and then pressing 'Tab'. The will complete the word and also display information about the table or field in the message box below the editor.
@@ -103,7 +103,7 @@ It's also common to use SuiteQL's builtin functions as a part of your query. To 
 ### Running your Query
 Pressing 'Run-Query' will execute a query using the 'N/Query' module in netsuite. This will produce either a table of results, or an error, and will display in the message box below the IDE.
 
-<img src="../assets/emp_s.png" height=400 style='display: block;margin-left: auto;
+<img src="./emp_s.png" height=400 style='display: block;margin-left: auto;
 margin-right:auto;'/>
 
 A search bar is provided that will automatically scroll to the text you are trying to find. Pressing 'enter' will bring you to the next set of matching keywords.
