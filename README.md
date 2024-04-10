@@ -13,7 +13,6 @@ src="./govirtualoffice.png" width = 300/>
 ---
 
 - [Introduction](#introduction)
-- [Installation](#installation)
 - [Getting Started](#getting-started)
 - [Shortcuts](#shortcuts-and-important-notes)
 - [Credits/Acknowledgements](#credits-and-acknowledgements)
@@ -24,20 +23,6 @@ src="./govirtualoffice.png" width = 300/>
 The Netsuite Query Tool by goVirtual office provides a simple and conveinient way to create and share queries across all your Netsuite accounts. When opened within a netsuite scriptable record, the extension will provide automatic type checking based on the netsuite accounts record catalog.
 
 Queries can be tested and saved from within the extension, and results can be downloaded to both CSV and JSON formats.
-
-## **Installation**
----
-
-This extension is currently compatible with both Microsoft Edge and Chrome browsers. 
-
-#### (1) Obtain a local copy
-To install the extension, you first must obtain the zip file containing the extension source code (email me for a copy). The zip file must then be extracted to a new folder.
-
-#### (2) Enable developer mode
-In your browser, go into "Settings->Extensions->Manage Extensions". Find the toggle that says 'Developer Mode' and turn that on. This is located either on the left-hand lower side of the screen for edge users, or the top right corner for chrome.
-
-#### (3) Unpack the extension
-Find and click the button labeled "Load Unpacked" and select your extracted folder when prompted. This will automatically load the extension from your local copy.
 
 ## **Getting Started**
 ---
